@@ -1,0 +1,3 @@
+MOV AX, 0003H
+NEG AX
+HLT

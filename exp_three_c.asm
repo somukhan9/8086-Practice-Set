@@ -1,0 +1,3 @@
+MOV AX, 0002H
+MUL AX
+HLT
